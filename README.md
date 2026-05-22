@@ -197,9 +197,11 @@ python3 video_processing.py
 
 The program reads a video, processes each frame, detects pedestrians, draws bounding boxes, and outputs the result video.
 
-### Demo Video
+## 🎞️ Demo Video
 
-[Watch the video demo](video/video_result.mp4)
+Click the play button below to watch the pedestrian detection result.
+
+https://github.com/user-attachments/assets/32e41485-823f-4c10-96dd-02d3761d5d55
 
 ---
 

@@ -199,8 +199,15 @@ The program reads a video, processes each frame, detects pedestrians, draws boun
 
 ### Demo Video
 
-[Watch the video demo](video/video_result.mp4)
+https://github.com/user-attachments/assets/bccb061b-a43a-44f6-906d-6dab948c6759
 
+<img width="400" height="267" alt="sample_result" src="https://github.com/user-attachments/assets/de7342e3-dbd2-4ae6-acfe-61316c3307b9" />
+<img width="200" height="240" alt="roi" src="https://github.com/user-attachments/assets/d5096c53-dc1a-41b9-a611-a84cfb9ef569" />
+<img width="400" height="400" alt="resized" src="https://github.com/user-attachments/assets/382c1c84-91e9-49b0-bc9d-f1dbd7097ed9" />
+<img width="400" height="400" alt="rectangle" src="https://github.com/user-attachments/assets/872c84dc-be2c-4044-9321-75c33299ea20" />
+<img width="512" height="512" alt="original" src="https://github.com/user-attachments/assets/60b79622-5478-47a2-8890-7beaacaebf50" />
+<img width="400" height="400" alt="gray" src="https://github.com/user-attachments/assets/7e4301ce-f878-4baa-8d88-5be09961cc06" />
+<img width="400" height="400" alt="clahe" src="https://github.com/user-attachments/assets/7cb1c97c-f16f-4c00-8ae5-839cd36a56ce" />
 ---
 
 ## 🧠 HOG Algorithm Explanation

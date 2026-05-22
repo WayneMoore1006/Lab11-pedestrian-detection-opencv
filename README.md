@@ -199,7 +199,7 @@ The program reads a video, processes each frame, detects pedestrians, draws boun
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/7b5c1af6-3fb6-4137-ade0-3e4238555d87
+[Watch the video demo](video/video_result.mp4)
 
 ---
 
